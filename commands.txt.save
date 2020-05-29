@@ -1,0 +1,27 @@
+    1 sudo yum -y update
+    2 sudo apt update
+    3 sudo apt install -y git
+    4 git --version
+    5 git config --global user_name "JBodge"
+    6 git config --global user_name JBodge
+    7 git config --global user.name JBodge
+    8 git config --global user.email josh.bodger93@gmail.com
+    9 git clone https://github.com/JBodge/TestHub4Bodge
+   10 cd TestHub4Bodge/
+   11 git status
+   12 ls
+   13 rm Untitled1
+   14 ls
+   15 git status
+   16 git add -all
+   17 get add --all
+   18 git add --all
+   19 git status
+   20 git commit -N "Added information about birds, insects, and reptiles."
+   21 git commit -n "Added information about birds, insects, and reptiles."
+   22 git push
+   23 git commit -m "Added information about birds, insects, and reptiles."
+   24 git push
+   25 history
+   26 history | commands.txt
+   27 history | nano commands.txt
