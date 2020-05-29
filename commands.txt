@@ -25,3 +25,19 @@
    25 history
    26 history | commands.txt
    27 history | nano commands.txt
+   28 ls
+   29 git add --all
+   30 git commit "Uploaded commands.txt"
+   31 git commit -m "Added commands.txt"
+   32 git push
+   33 git push
+   34 ls
+   35 rm commands.txt.save
+   36 ls
+   37 git commit -m "Modified commands file"
+   38 git push
+   39 history
+   40 history | touch commands
+   41 ls
+   42 nano commands
+   43 history | nano commands
